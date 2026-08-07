@@ -1,5 +1,5 @@
 # UFO
-UFO table of contents.
+bbauska UFO web sites table of contents.
 
 1. nuforc
 2. uap-disclosure
@@ -10,3 +10,5 @@ UFO table of contents.
 7. ufo-timeline
 8. ufo-vert-timeline
 9. ufo-et-timeline
+
+Bayesian inference is a method of statistical data analysis that uses Bayes' theorem to update the probability of a hypothesis as more evidence or information becomes available. It blends initial beliefs (the prior) with incoming data (the likelihood) to calculate a revised probability (the posterior).
